@@ -16,3 +16,7 @@ Issue功能，是将一个任务分配给一个Issue进行追踪和管理的功�
 
 ### test
 测试测试
+# hello-world
+just start to use github
+
+I'm tian-cai
