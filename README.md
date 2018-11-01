@@ -1,4 +1,4 @@
-# github的基本使用
+# github的基本使用fangfa
 ## 功能
 ### 1 Git仓库
 pulse是体现仓库软件开发活跃度的功能
