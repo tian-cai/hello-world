@@ -25,7 +25,7 @@ module.exports = merge(base, {
     plugins: [
         new cleanWebpackPlugin("build/*"),
         new HtmlWebpackTagsPlugin({
-            append: true,
+            append: false,
             scripts: loadDllAssets()
         }),
         new MiniCssExtractPlugin({
