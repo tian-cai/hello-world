@@ -7,7 +7,7 @@ const dll = {
   },
   output: {
     path: __dirname + "/dll",
-    filename: "[name]-dll.js",
+    filename: "[name]-[hash:8].dll.js",
     library: "[name]_dll"
   },
   plugins: [

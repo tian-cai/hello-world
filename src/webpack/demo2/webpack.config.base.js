@@ -1,7 +1,7 @@
-let htmlWebpackPlugin = require("html-webpack-plugin");
-let path = require('path')
+const htmlWebpackPlugin = require("html-webpack-plugin");
+const path = require('path')
 
-let base = {
+const base = {
   entry: {
     main: __dirname + "/src/index.js",
   },
