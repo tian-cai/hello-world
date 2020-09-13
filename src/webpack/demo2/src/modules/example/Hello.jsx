@@ -1,0 +1,30 @@
+import React from "react"
+
+class Hello extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = { date: new Date() }
+  }
+  componentDidMount() {
+    let id = window.setInterval(() => {
+      this.setState({
+        date: new Date()
+      })
+    }, 1000)
+    this.id = id
+  }
+  componentWillUnmount() {
+    window.clearImmediate(this.id)
+  }
+
+  render() {
+    return (
+      <div style={{ display: "inline-block", verticalAlign: "middle" }}>
+        <h1>Hello World!!</h1>
+        <h2>It is {this.state.date.toLocaleTimeString()}</h2>
+      </div>
+    )
+  }
+}
+
+export default Hello
