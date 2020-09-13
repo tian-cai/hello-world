@@ -1,4 +1,5 @@
 const webpack = require("webpack");
+const cleanWebpackPlugin = require("clean-webpack-plugin");
 
 const dll = {
   entry: {
@@ -10,6 +11,7 @@ const dll = {
     library: "[name]_dll"
   },
   plugins: [
+    new cleanWebpackPlugin("dll/*"),
     new webpack.DllPlugin({
         name: "[name]_dll",
         path: __dirname + "/dll/" + "[name].manifest.json",

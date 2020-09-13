@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.27.1",
-  "hash": "c77f367a79c8dd09d685",
-  "time": 1428,
-  "builtAt": 1599997669091,
+  "hash": "999264a95515db7e23d4",
+  "time": 1443,
+  "builtAt": 1600001866781,
   "publicPath": "",
   "outputPath": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/build",
   "assetsByChunkName": {
@@ -16,7 +16,7 @@
   "assets": [
     {
       "name": "index.html",
-      "size": 435,
+      "size": 483,
       "chunks": [],
       "chunkNames": [],
       "emitted": true
@@ -120,13 +120,13 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
               "name": "./src/index.js",
               "profile": {
-                "factory": 70,
-                "building": 286
+                "factory": 71,
+                "building": 282
               }
             }
           ],
           "profile": {
-            "factory": 35,
+            "factory": 34,
             "building": 0,
             "dependencies": 3
           },
@@ -192,8 +192,8 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
               "name": "./src/index.js",
               "profile": {
-                "factory": 70,
-                "building": 286
+                "factory": 71,
+                "building": 282
               }
             },
             {
@@ -201,7 +201,7 @@
               "identifier": "delegated 50 from dll-reference react_dll",
               "name": "delegated ./node_modules/react-dom/index.js from dll-reference react_dll",
               "profile": {
-                "factory": 35,
+                "factory": 34,
                 "building": 0,
                 "dependencies": 3
               }
@@ -267,8 +267,8 @@
           "issuerName": null,
           "issuerPath": null,
           "profile": {
-            "factory": 70,
-            "building": 286
+            "factory": 71,
+            "building": 282
           },
           "failed": false,
           "errors": 0,
@@ -315,13 +315,13 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
               "name": "./src/index.js",
               "profile": {
-                "factory": 70,
-                "building": 286
+                "factory": 71,
+                "building": 282
               }
             }
           ],
           "profile": {
-            "factory": 35,
+            "factory": 34,
             "building": 0,
             "dependencies": 3
           },
@@ -369,13 +369,13 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
               "name": "./src/index.js",
               "profile": {
-                "factory": 70,
-                "building": 286
+                "factory": 71,
+                "building": 282
               }
             }
           ],
           "profile": {
-            "factory": 35,
+            "factory": 34,
             "building": 0,
             "dependencies": 3
           },
@@ -438,13 +438,13 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
               "name": "./src/index.js",
               "profile": {
-                "factory": 70,
-                "building": 286
+                "factory": 71,
+                "building": 282
               }
             }
           ],
           "profile": {
-            "factory": 35,
+            "factory": 34,
             "building": 0,
             "dependencies": 3
           },
@@ -494,8 +494,8 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
               "name": "./src/index.js",
               "profile": {
-                "factory": 70,
-                "building": 286
+                "factory": 71,
+                "building": 282
               }
             },
             {
@@ -503,7 +503,7 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/App.jsx",
               "name": "./src/App.jsx",
               "profile": {
-                "factory": 35,
+                "factory": 34,
                 "building": 0,
                 "dependencies": 3
               }
@@ -511,8 +511,8 @@
           ],
           "profile": {
             "factory": 21,
-            "building": 375,
-            "dependencies": 10
+            "building": 382,
+            "dependencies": 11
           },
           "failed": false,
           "errors": 0,
@@ -562,8 +562,8 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
               "name": "./src/index.js",
               "profile": {
-                "factory": 70,
-                "building": 286
+                "factory": 71,
+                "building": 282
               }
             },
             {
@@ -571,7 +571,7 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/App.jsx",
               "name": "./src/App.jsx",
               "profile": {
-                "factory": 35,
+                "factory": 34,
                 "building": 0,
                 "dependencies": 3
               }
@@ -579,8 +579,8 @@
           ],
           "profile": {
             "factory": 21,
-            "building": 375,
-            "dependencies": 10
+            "building": 382,
+            "dependencies": 11
           },
           "failed": false,
           "errors": 0,
@@ -628,8 +628,8 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
               "name": "./src/index.js",
               "profile": {
-                "factory": 70,
-                "building": 286
+                "factory": 71,
+                "building": 282
               }
             },
             {
@@ -637,7 +637,7 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/App.jsx",
               "name": "./src/App.jsx",
               "profile": {
-                "factory": 35,
+                "factory": 34,
                 "building": 0,
                 "dependencies": 3
               }
@@ -645,8 +645,8 @@
           ],
           "profile": {
             "factory": 21,
-            "building": 375,
-            "dependencies": 10
+            "building": 382,
+            "dependencies": 11
           },
           "failed": false,
           "errors": 0,
@@ -693,8 +693,8 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
               "name": "./src/index.js",
               "profile": {
-                "factory": 70,
-                "building": 286
+                "factory": 71,
+                "building": 282
               }
             },
             {
@@ -702,7 +702,7 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/App.jsx",
               "name": "./src/App.jsx",
               "profile": {
-                "factory": 35,
+                "factory": 34,
                 "building": 0,
                 "dependencies": 3
               }
@@ -713,14 +713,14 @@
               "name": "./src/style/app.css",
               "profile": {
                 "factory": 21,
-                "building": 375,
-                "dependencies": 10
+                "building": 382,
+                "dependencies": 11
               }
             }
           ],
           "profile": {
             "factory": 0,
-            "building": 0
+            "building": 1
           },
           "failed": false,
           "errors": 0,
@@ -778,13 +778,13 @@
           "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
           "name": "./src/index.js",
           "profile": {
-            "factory": 70,
-            "building": 286
+            "factory": 71,
+            "building": 282
           }
         }
       ],
       "profile": {
-        "factory": 35,
+        "factory": 34,
         "building": 0,
         "dependencies": 3
       },
@@ -850,8 +850,8 @@
           "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
           "name": "./src/index.js",
           "profile": {
-            "factory": 70,
-            "building": 286
+            "factory": 71,
+            "building": 282
           }
         },
         {
@@ -859,7 +859,7 @@
           "identifier": "delegated 50 from dll-reference react_dll",
           "name": "delegated ./node_modules/react-dom/index.js from dll-reference react_dll",
           "profile": {
-            "factory": 35,
+            "factory": 34,
             "building": 0,
             "dependencies": 3
           }
@@ -925,8 +925,8 @@
       "issuerName": null,
       "issuerPath": null,
       "profile": {
-        "factory": 70,
-        "building": 286
+        "factory": 71,
+        "building": 282
       },
       "failed": false,
       "errors": 0,
@@ -973,13 +973,13 @@
           "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
           "name": "./src/index.js",
           "profile": {
-            "factory": 70,
-            "building": 286
+            "factory": 71,
+            "building": 282
           }
         }
       ],
       "profile": {
-        "factory": 35,
+        "factory": 34,
         "building": 0,
         "dependencies": 3
       },
@@ -1027,13 +1027,13 @@
           "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
           "name": "./src/index.js",
           "profile": {
-            "factory": 70,
-            "building": 286
+            "factory": 71,
+            "building": 282
           }
         }
       ],
       "profile": {
-        "factory": 35,
+        "factory": 34,
         "building": 0,
         "dependencies": 3
       },
@@ -1096,13 +1096,13 @@
           "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
           "name": "./src/index.js",
           "profile": {
-            "factory": 70,
-            "building": 286
+            "factory": 71,
+            "building": 282
           }
         }
       ],
       "profile": {
-        "factory": 35,
+        "factory": 34,
         "building": 0,
         "dependencies": 3
       },
@@ -1152,8 +1152,8 @@
           "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
           "name": "./src/index.js",
           "profile": {
-            "factory": 70,
-            "building": 286
+            "factory": 71,
+            "building": 282
           }
         },
         {
@@ -1161,7 +1161,7 @@
           "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/App.jsx",
           "name": "./src/App.jsx",
           "profile": {
-            "factory": 35,
+            "factory": 34,
             "building": 0,
             "dependencies": 3
           }
@@ -1169,8 +1169,8 @@
       ],
       "profile": {
         "factory": 21,
-        "building": 375,
-        "dependencies": 10
+        "building": 382,
+        "dependencies": 11
       },
       "failed": false,
       "errors": 0,
@@ -1220,8 +1220,8 @@
           "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
           "name": "./src/index.js",
           "profile": {
-            "factory": 70,
-            "building": 286
+            "factory": 71,
+            "building": 282
           }
         },
         {
@@ -1229,7 +1229,7 @@
           "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/App.jsx",
           "name": "./src/App.jsx",
           "profile": {
-            "factory": 35,
+            "factory": 34,
             "building": 0,
             "dependencies": 3
           }
@@ -1237,8 +1237,8 @@
       ],
       "profile": {
         "factory": 21,
-        "building": 375,
-        "dependencies": 10
+        "building": 382,
+        "dependencies": 11
       },
       "failed": false,
       "errors": 0,
@@ -1286,8 +1286,8 @@
           "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
           "name": "./src/index.js",
           "profile": {
-            "factory": 70,
-            "building": 286
+            "factory": 71,
+            "building": 282
           }
         },
         {
@@ -1295,7 +1295,7 @@
           "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/App.jsx",
           "name": "./src/App.jsx",
           "profile": {
-            "factory": 35,
+            "factory": 34,
             "building": 0,
             "dependencies": 3
           }
@@ -1303,8 +1303,8 @@
       ],
       "profile": {
         "factory": 21,
-        "building": 375,
-        "dependencies": 10
+        "building": 382,
+        "dependencies": 11
       },
       "failed": false,
       "errors": 0,
@@ -1351,8 +1351,8 @@
           "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.js",
           "name": "./src/index.js",
           "profile": {
-            "factory": 70,
-            "building": 286
+            "factory": 71,
+            "building": 282
           }
         },
         {
@@ -1360,7 +1360,7 @@
           "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/babel-loader/lib/index.js?cacheDirectory=true!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/App.jsx",
           "name": "./src/App.jsx",
           "profile": {
-            "factory": 35,
+            "factory": 34,
             "building": 0,
             "dependencies": 3
           }
@@ -1371,14 +1371,14 @@
           "name": "./src/style/app.css",
           "profile": {
             "factory": 21,
-            "building": 375,
-            "dependencies": 10
+            "building": 382,
+            "dependencies": 11
           }
         }
       ],
       "profile": {
         "factory": 0,
-        "building": 0
+        "building": 1
       },
       "failed": false,
       "errors": 0,
@@ -1411,7 +1411,7 @@
       "assets": [
         {
           "name": "index.html",
-          "size": 545080,
+          "size": 545129,
           "chunks": [
             0
           ],
@@ -1449,12 +1449,12 @@
           "rendered": true,
           "initial": true,
           "entry": true,
-          "size": 541130,
+          "size": 541179,
           "names": [],
           "files": [
             "index.html"
           ],
-          "hash": "167a11c0e8a9dcdeb53d",
+          "hash": "36061acdb37dee4cd638",
           "siblings": [],
           "parents": [],
           "children": [],
@@ -1466,7 +1466,7 @@
               "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
               "index": 0,
               "index2": 3,
-              "size": 573,
+              "size": 622,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -1479,7 +1479,7 @@
               "issuerName": null,
               "issuerPath": null,
               "profile": {
-                "factory": 53,
+                "factory": 54,
                 "building": 18
               },
               "failed": false,
@@ -1502,7 +1502,7 @@
                 "ModuleConcatenation bailout: Module is not an ECMAScript module"
               ],
               "depth": 0,
-              "source": "var _ = require(\"!!../node_modules/lodash/lodash.js\");module.exports = function (templateParams) { with(templateParams) {return (function(data) {\nvar __t, __p = '';\n__p += '<!DOCTYPE html>\\n<html lang=\"en\">\\n\\n<head>\\n    <meta charset=\"UTF-8\">\\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\\n    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\\n    <title>\\n        ' +\n((__t = ( htmlWebpackPlugin.options.title)) == null ? '' : __t) +\n'\\n    </title>\\n</head>\\n\\n<body>\\n    <div id=\"app\"></div>\\n</body>\\n\\n</html>';\nreturn __p\n})();}}"
+              "source": "var _ = require(\"!!../node_modules/lodash/lodash.js\");module.exports = function (templateParams) { with(templateParams) {return (function(data) {\nvar __t, __p = '';\n__p += '<!DOCTYPE html>\\n<html lang=\"en\">\\n\\n<head>\\n    <meta charset=\"UTF-8\">\\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\\n    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\\n    <title>\\n        ' +\n((__t = ( htmlWebpackPlugin.options.title)) == null ? '' : __t) +\n'\\n    </title>\\n    <script src=\"../dll/react-dll.js\"></script>\\n</head>\\n\\n<body>\\n    <div id=\"app\"></div>\\n</body>\\n\\n</html>';\nreturn __p\n})();}}"
             },
             {
               "id": 1,
@@ -1527,14 +1527,14 @@
                   "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/html-webpack-plugin/lib/loader.js!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.html",
                   "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
                   "profile": {
-                    "factory": 53,
+                    "factory": 54,
                     "building": 18
                   }
                 }
               ],
               "profile": {
-                "factory": 122,
-                "building": 163
+                "factory": 3,
+                "building": 279
               },
               "failed": false,
               "errors": 0,
@@ -1582,7 +1582,7 @@
                   "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/html-webpack-plugin/lib/loader.js!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.html",
                   "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
                   "profile": {
-                    "factory": 53,
+                    "factory": 54,
                     "building": 18
                   }
                 },
@@ -1591,13 +1591,13 @@
                   "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/lodash/lodash.js",
                   "name": "./node_modules/lodash/lodash.js",
                   "profile": {
-                    "factory": 122,
-                    "building": 163
+                    "factory": 3,
+                    "building": 279
                   }
                 }
               ],
               "profile": {
-                "factory": 8,
+                "factory": 7,
                 "building": 3
               },
               "failed": false,
@@ -1646,7 +1646,7 @@
                   "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/html-webpack-plugin/lib/loader.js!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.html",
                   "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
                   "profile": {
-                    "factory": 53,
+                    "factory": 54,
                     "building": 18
                   }
                 },
@@ -1655,13 +1655,13 @@
                   "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/lodash/lodash.js",
                   "name": "./node_modules/lodash/lodash.js",
                   "profile": {
-                    "factory": 122,
-                    "building": 163
+                    "factory": 3,
+                    "building": 279
                   }
                 }
               ],
               "profile": {
-                "factory": 8,
+                "factory": 7,
                 "building": 3
               },
               "failed": false,
@@ -1708,7 +1708,7 @@
           "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
           "index": 0,
           "index2": 3,
-          "size": 573,
+          "size": 622,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -1721,7 +1721,7 @@
           "issuerName": null,
           "issuerPath": null,
           "profile": {
-            "factory": 53,
+            "factory": 54,
             "building": 18
           },
           "failed": false,
@@ -1744,7 +1744,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 0,
-          "source": "var _ = require(\"!!../node_modules/lodash/lodash.js\");module.exports = function (templateParams) { with(templateParams) {return (function(data) {\nvar __t, __p = '';\n__p += '<!DOCTYPE html>\\n<html lang=\"en\">\\n\\n<head>\\n    <meta charset=\"UTF-8\">\\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\\n    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\\n    <title>\\n        ' +\n((__t = ( htmlWebpackPlugin.options.title)) == null ? '' : __t) +\n'\\n    </title>\\n</head>\\n\\n<body>\\n    <div id=\"app\"></div>\\n</body>\\n\\n</html>';\nreturn __p\n})();}}"
+          "source": "var _ = require(\"!!../node_modules/lodash/lodash.js\");module.exports = function (templateParams) { with(templateParams) {return (function(data) {\nvar __t, __p = '';\n__p += '<!DOCTYPE html>\\n<html lang=\"en\">\\n\\n<head>\\n    <meta charset=\"UTF-8\">\\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\\n    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\\n    <title>\\n        ' +\n((__t = ( htmlWebpackPlugin.options.title)) == null ? '' : __t) +\n'\\n    </title>\\n    <script src=\"../dll/react-dll.js\"></script>\\n</head>\\n\\n<body>\\n    <div id=\"app\"></div>\\n</body>\\n\\n</html>';\nreturn __p\n})();}}"
         },
         {
           "id": 1,
@@ -1769,14 +1769,14 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/html-webpack-plugin/lib/loader.js!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.html",
               "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
               "profile": {
-                "factory": 53,
+                "factory": 54,
                 "building": 18
               }
             }
           ],
           "profile": {
-            "factory": 122,
-            "building": 163
+            "factory": 3,
+            "building": 279
           },
           "failed": false,
           "errors": 0,
@@ -1824,7 +1824,7 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/html-webpack-plugin/lib/loader.js!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.html",
               "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
               "profile": {
-                "factory": 53,
+                "factory": 54,
                 "building": 18
               }
             },
@@ -1833,13 +1833,13 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/lodash/lodash.js",
               "name": "./node_modules/lodash/lodash.js",
               "profile": {
-                "factory": 122,
-                "building": 163
+                "factory": 3,
+                "building": 279
               }
             }
           ],
           "profile": {
-            "factory": 8,
+            "factory": 7,
             "building": 3
           },
           "failed": false,
@@ -1888,7 +1888,7 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/html-webpack-plugin/lib/loader.js!/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/src/index.html",
               "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
               "profile": {
-                "factory": 53,
+                "factory": 54,
                 "building": 18
               }
             },
@@ -1897,13 +1897,13 @@
               "identifier": "/Users/haozhaojie/Documents/work/demo/src/webpack/demo2/node_modules/lodash/lodash.js",
               "name": "./node_modules/lodash/lodash.js",
               "profile": {
-                "factory": 122,
-                "building": 163
+                "factory": 3,
+                "building": 279
               }
             }
           ],
           "profile": {
-            "factory": 8,
+            "factory": 7,
             "building": 3
           },
           "failed": false,
@@ -2005,7 +2005,7 @@
               "issuerPath": null,
               "profile": {
                 "factory": 1,
-                "building": 360
+                "building": 370
               },
               "failed": false,
               "errors": 0,
@@ -2054,13 +2054,13 @@
                   "name": "./node_modules/css-loader!./node_modules/postcss-loader/lib!./src/style/app.css",
                   "profile": {
                     "factory": 1,
-                    "building": 360
+                    "building": 370
                   }
                 }
               ],
               "profile": {
                 "factory": 1,
-                "building": 3
+                "building": 1
               },
               "failed": false,
               "errors": 0,
@@ -2120,7 +2120,7 @@
           "issuerPath": null,
           "profile": {
             "factory": 1,
-            "building": 360
+            "building": 370
           },
           "failed": false,
           "errors": 0,
@@ -2169,13 +2169,13 @@
               "name": "./node_modules/css-loader!./node_modules/postcss-loader/lib!./src/style/app.css",
               "profile": {
                 "factory": 1,
-                "building": 360
+                "building": 370
               }
             }
           ],
           "profile": {
             "factory": 1,
-            "building": 3
+            "building": 1
           },
           "failed": false,
           "errors": 0,

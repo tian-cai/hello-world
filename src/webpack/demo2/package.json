@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --open --config webpack.config.dev.js",
     "build": "webpack --progress --hide-modules --config webpack.config.prod.js",
     "build:dll": "webpack --progress --hide-modules --config webpack.config.dll.js",
-    "profile": "webpack --config webpack.config.prod.js --profile --json > stats.json", 
+    "profile": "webpack --config webpack.config.prod.js --profile --json > stats.json",
     "analyzer": "webpack-bundle-analyzer stats.json"
   },
   "repository": {
